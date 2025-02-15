@@ -18,7 +18,8 @@ output application/json
 ---
 {
 	"message" : "CICD Autho deployment is successful",
-	 "status" : "successfully"
+	 "status" : "successfully",
+	 "created" : "flow on github"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
