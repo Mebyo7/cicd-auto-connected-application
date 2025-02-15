@@ -17,7 +17,8 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 output application/json
 ---
 {
-	"message" : "cicd autho deployment is successful"
+	"message" : "CICD Autho deployment is successful"
+	 "status"  "successful"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
